@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.rambus.cmks.cli.sshd.EventCommandTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-07-11T06:08:02" hostname="IRWX-ACHANDRAN" time="0.642">
+  <properties/>
+  <testcase name="sentEvent" classname="com.rambus.cmks.cli.sshd.EventCommandTest" time="0.633"/>
+  <testcase name="logStore" classname="com.rambus.cmks.cli.sshd.EventCommandTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
